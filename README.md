@@ -22,6 +22,8 @@ Shuangxian Li: She implented to A1 (LFR) and tried to  reduce the training time 
 
 Yudan Zhang: implemented A1 (LFR) algorithm, edited final LFR algorithm file, organized & edited Github files, researched on LFR, assisted in PPT & actively participated in group meetings. 
 
+Weijia Wang: Researched and helped to write the initial version of A1 (LFR) algorithm. Implemented the algorithm and helped to debug. Edited readme file, uploaded and organized files in GitHub repo.
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
