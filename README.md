@@ -24,6 +24,8 @@ Yudan Zhang: implemented A1 (LFR) algorithm, edited final LFR algorithm file, or
 
 Weijia Wang: Researched and helped to write the initial version of A1 (LFR) algorithm. Implemented the algorithm and helped to debug. Edited readme file, uploaded and organized files in GitHub repo.
 
+Samira Kamal: Researched A1 and A3 algorithms, as well as implemented A3 algorithm on COMPAS dataset. Edited Powerpoint and presented our research/code.
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
