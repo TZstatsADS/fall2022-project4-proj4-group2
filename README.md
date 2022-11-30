@@ -18,7 +18,7 @@ Term: Fall 2022
 
 **Contribution statement**: 
 
-Shuangxian Li: She implented to A1 (LFR) and tried to  reduce the training time on a small training set in order to get good result. She also implemented the algorithms described in the Maximizing fairness under accuracy constraints (gamma and Fine-gamma) and participate in doing presentaion file.
+Shuangxian Li: She implented to A1 (LFR) and tried to  reduce the training time on a small training set in order to get good result. She also implemented the algorithms described in the (A3)Maximizing fairness under accuracy constraints (gamma and Fine-gamma) and participate in doing presentaion file.
 
 Yudan Zhang: Assisted in the implement of the initial version of A1 (LFR) algorithm, improved the final LFR algorithm, organized & edited Github files, researched on LFR & assisted in PPT. 
 
