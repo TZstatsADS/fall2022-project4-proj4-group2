@@ -26,6 +26,8 @@ Weijia Wang: Researched and helped to write the initial version of A1 (LFR) algo
 
 Samira Kamal: Researched A1 and A3 algorithms, as well as implemented A3 algorithm on COMPAS dataset. Edited Powerpoint and presented our research/code.
 
+Zeya Ahmad: Researched and implemented the A3 algorithm-Maximizing Fairness under Accuracy Constraints on the Bank dataset and the Compas dataset. Edited readme file, uploaded and organized files in our  GitHub repo.
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
